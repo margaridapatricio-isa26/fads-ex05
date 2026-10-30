@@ -10,14 +10,15 @@ The following four words *are in italic typeface*, but the rest are not.
 - Item one
 - Item two
 - Item three
+
 This sentence has `this portion of code` inline.
+
 ```
 def printMyName(name):
    a = name
    print(a)
 ```
-   print(a)
-   [Markdown Guide](https://www.markdownguide.org/)
+[Markdown Guide](https://www.markdownguide.org/)
 
    |ID| Column 1| Column 2| Column 3|
 |--|---------|---------|---------|
